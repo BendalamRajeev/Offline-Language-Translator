@@ -39,7 +39,8 @@ All processing is done locally, ensuring privacy, speed, and availability even i
 
 ![Screenshot 2024-05-18 102259](https://github.com/user-attachments/assets/46cf952a-c451-43bf-880a-a890e9810732)
 
-[▶️ Watch the demo video](https://github.com/BendalamRajeev/offline-language-translator/raw/main/assets/demo.webm)
+[▶️ Watch the demo video 1](https://github.com/BendalamRajeev/offline-language-translator/raw/main/assets/demo1.webm)
+[▶️ Watch the demo video 2](https://github.com/BendalamRajeev/offline-language-translator/raw/main/assets/demo.webm)
 
 <hr>
 
