@@ -25,4 +25,5 @@ The app uses embedded translation models or pre-downloaded language data to perf
 📷 Screenshots
     User interface for offline languge translator.
 ![Screenshot 2024-05-18 102259](https://github.com/user-attachments/assets/46cf952a-c451-43bf-880a-a890e9810732)
-
+![ScreenRecording 2024-05-18 102259](https://drive.google.com/file/d/11WQwGecHG_e0BwbuqISPrevmoPJsa18G/view?usp=sharing)
+![ScreenRecording 2024-05-18 102259](https://drive.google.com/file/d/1nZnH8t8hLXZHrEwEfnpbi_ElcY_Otd7Q/view?usp=sharing)
